@@ -1,0 +1,15 @@
+h1,
+h2,
+h3,
+h4 {
+    font-weight: bold;
+}
+
+div.list-image {
+    display: flex;
+    min-height: 300px;
+}
+
+.img-thumbnail {
+    margin: auto !important;
+}
